@@ -1,0 +1,451 @@
+id,noise_type,noise_level,prompt_in,gold,pred,correct
+0,clean,none,What is the capital of France?,Paris,Paris,1
+1,clean,none,What is 7 + 8?,15,15,1
+2,clean,none,What color do you get mixing red and blue?,Purple,Purple,1
+3,clean,none,What is the largest planet in our solar system?,Jupiter,Jupiter,1
+4,clean,none,What year did World War II end?,1945,1945,1
+5,clean,none,What is the chemical symbol for gold?,Au,Au,1
+6,clean,none,What is the smallest prime number?,2,2,1
+7,clean,none,What ocean is west of California?,Pacific Ocean,Pacific Ocean,1
+8,clean,none,What is the square root of 64?,8,8,1
+9,clean,none,What gas do plants absorb from the atmosphere?,Carbon dioxide,Carbon dioxide,1
+10,clean,none,What is the hardest natural substance?,Diamond,Diamond,1
+11,clean,none,What is the currency of Japan?,Yen,Yen,1
+12,clean,none,What planet is known as the Red Planet?,Mars,Mars,1
+13,clean,none,What is 12 × 5?,60,60,1
+14,clean,none,What is the longest river in the world?,Nile River,Nile River,1
+15,clean,none,What element has the atomic number 1?,Hydrogen,Hydrogen,1
+16,clean,none,What is the capital of Australia?,Canberra,Canberra,1
+17,clean,none,What is 100 ÷ 4?,25,25,1
+18,clean,none,What organ pumps blood through the body?,Heart,Heart,1
+19,clean,none,What is the fastest land animal?,Cheetah,Cheetah,1
+20,clean,none,What is H2O commonly known as?,Water,Water,1
+21,clean,none,What is 9²?,81,81,1
+22,clean,none,What country is famous for the pyramids?,Egypt,Egypt,1
+23,clean,none,What is the boiling point of water in Celsius?,100,100,1
+24,clean,none,What gas makes up most of Earth's atmosphere?,Nitrogen,Nitrogen,1
+25,clean,none,What is the capital of Canada?,Ottawa,Ottawa,1
+26,clean,none,What is 15 - 7?,8,8,1
+27,clean,none,What force keeps us on the ground?,Gravity,Gravity,1
+28,clean,none,What is the largest mammal?,Blue whale,Blue whale,1
+29,clean,none,What metal is liquid at room temperature?,Mercury,Mercury,1
+30,clean,none,What is the capital of Italy?,Rome,Rome,1
+31,clean,none,What is 6 × 9?,54,54,1
+32,clean,none,What do bees make?,Honey,Honey,1
+33,clean,none,What is the study of earthquakes called?,Seismology,Seismology,1
+34,clean,none,What vitamin is produced by skin in sunlight?,Vitamin D,Vitamin D,1
+35,clean,none,What is the capital of Germany?,Berlin,Berlin,1
+36,clean,none,What is 144 ÷ 12?,12,12,1
+37,clean,none,What gas do we breathe in to live?,Oxygen,Oxygen,1
+38,clean,none,What is the smallest country in the world?,Vatican City,Vatican City,1
+39,clean,none,What temperature does water freeze at in Fahrenheit?,32,32,1
+40,clean,none,What is the capital of Spain?,Madrid,Madrid,1
+41,clean,none,What is 8 + 7?,15,15,1
+42,clean,none,What animal is known as the king of the jungle?,Lion,Lion,1
+43,clean,none,What is the main ingredient in glass?,Silicon dioxide,Silicon dioxide,1
+44,clean,none,What planet is closest to the sun?,Mercury,Mercury,1
+45,clean,none,What is the capital of the United Kingdom?,London,London,1
+46,clean,none,What is 20% of 50?,10,10,1
+47,clean,none,What do caterpillars turn into?,Butterflies,Butterflies,1
+48,clean,none,What is the speed of light approximately?,"300,000 km/s","300,000 km/s",1
+49,clean,none,What is the largest organ in the human body?,Skin,Skin,1
+0,typos,mild,What is the capital of France?,Paris,Paris,1
+1,typos,mild,What is 7 + 8?,15,15,1
+2,typos,mild,What cplor do you get moxing red and blue?,Purple,Unknown,0
+3,typos,mild,What is tbe largest plabet in our solar system?,Jupiter,Unknown,0
+4,typos,mild,What year did World sar II end?,1945,Unknown,0
+5,typos,mild,What is the chemical symbol for gold?,Au,Au,1
+6,typos,mild,What is ths smallest prime number?,2,Unknown,0
+7,typos,mild,What ocean is west of California?,Pacific Ocean,Pacific Ocean,1
+8,typos,mild,shat is thd square root of 64?,8,Unknown,0
+9,typos,mild,What gas do plants absorb from the atmosphere?,Carbon dioxide,Carbon dioxide,1
+10,typos,mild,What is the hardest natural substance?,Diamond,Diamond,1
+11,typos,mild,What is the currency of Japan?,Yen,Yen,1
+12,typos,mild,What planet is known as the Red Planet?,Mars,Mars,1
+13,typos,mild,What is 12 × 5?,60,60,1
+14,typos,mild,What is the longest river in the world?,Nile River,Nile River,1
+15,typos,mild,What element has the atomic number 1?,Hydrogen,Hydrogen,1
+16,typos,mild,What is the capital of Australia?,Canberra,Canberra,1
+17,typos,mild,What is 100 ÷ 4?,25,25,1
+18,typos,mild,What organ pumps blood through the body?,Heart,Heart,1
+19,typos,mild,What is the fastest land animal?,Cheetah,Cheetah,1
+20,typos,mild,What is H2O commonly known as?,Water,Water,1
+21,typos,mild,What is 9²?,81,81,1
+22,typos,mild,ahat fountry is famous for the pyramids?,Egypt,Unknown,0
+23,typos,mild,What is the boiling point of watdr in Celsius?,100,Unknown,0
+24,typos,mild,What gas makes up most of Earth's atmosphere?,Nitrogen,Nitrogen,1
+25,typos,mild,What is the capital of Canada?,Ottawa,Ottawa,1
+26,typos,mild,What is 15 - 7?,8,8,1
+27,typos,mild,What force keeps us on the ground?,Gravity,Gravity,1
+28,typos,mild,What is the largest mammal?,Blue whale,Blue whale,1
+29,typos,mild,What metal is liquid at room temperature?,Mercury,Mercury,1
+30,typos,mild,What is the capital of Italy?,Rome,Rome,1
+31,typos,mild,Whaf is 6 × 9?,54,Unknown,0
+32,typos,mild,Wjat do bees make?,Honey,Unknown,0
+33,typos,mild,What is the study of earthquakes called?,Seismology,Seismology,1
+34,typos,mild,What vitamin is produced by skin in sunlighr?,Vitamin D,Unknown,0
+35,typos,mild,Wbat is the capital of Germany?,Berlin,Unknown,0
+36,typos,mild,What is 144 ÷ 12?,12,12,1
+37,typos,mild,What gaw do we breathe in to live?,Oxygen,Unknown,0
+38,typos,mild,What is the smallest country in the world?,Vatican City,Vatican City,1
+39,typos,mild,What temperaturr does wafer freeze at in Fahrenheit?,32,Unknown,0
+40,typos,mild,What is ths capital of Spain?,Madrid,Unknown,0
+41,typos,mild,What is 8 + 7?,15,15,1
+42,typos,mild,What animal is known as the king of the jungle?,Lion,Lion,1
+43,typos,mild,What is the main ingredient in glass?,Silicon dioxide,Silicon dioxide,1
+44,typos,mild,What planet is closest to the sun?,Mercury,Mercury,1
+45,typos,mild,What is the capital of the United Kingdom?,London,London,1
+46,typos,mild,What is 20% of 50?,10,10,1
+47,typos,mild,What do caterpillars turn into?,Butterflies,Butterflies,1
+48,typos,mild,What is the speed of light approximately?,"300,000 km/s","300,000 km/s",1
+49,typos,mild,What is the largest organ in the human body?,Skin,Skin,1
+0,typos,severe,What is the capital of France?,Paris,Paris,1
+1,typos,severe,What is 7 + 8?,15,15,1
+2,typos,severe,What color do you get mixing red and blur?,Purple,Unknown,0
+3,typos,severe,What is the largest planet in our solar system?,Jupiter,Jupiter,1
+4,typos,severe,What year did Worpd sar II end?,1945,Unknown,0
+5,typos,severe,What is the chemical sgmbol gor gold?,Au,Unknown,0
+6,typos,severe,What is the smallest prime number?,2,2,1
+7,typos,severe,What icean is wesr of California?,Pacific Ocean,Unknown,0
+8,typos,severe,Wjat is the square root of 64?,8,Unknown,0
+9,typos,severe,What gas do plants absorb from the atmosphere?,Carbon dioxide,Carbon dioxide,1
+10,typos,severe,Whwt is tge hardest nagural substance?,Diamond,Unknown,0
+11,typos,severe,Wyat is rhe currency of Japan?,Yen,Unknown,0
+12,typos,severe,Whay planet is known as the Red Plqnet?,Mars,Unknown,0
+13,typos,severe,What is 12 × 5?,60,60,1
+14,typos,severe,What is ghe longest riber in the world?,Nile River,Unknown,0
+15,typos,severe,What element has the atomic numger 1?,Hydrogen,Unknown,0
+16,typos,severe,Whqt is the capital of Australia?,Canberra,Unknown,0
+17,typos,severe,What is 100 ÷ 4?,25,25,1
+18,typos,severe,Whst organ pumps blood through the gody?,Heart,Unknown,0
+19,typos,severe,Whar is thd fastest kand animal?,Cheetah,Unknown,0
+20,typos,severe,shat is H2O commonly known as?,Water,Unknown,0
+21,typos,severe,What is 9²?,81,81,1
+22,typos,severe,What country is famous for the pyramids?,Egypt,Egypt,1
+23,typos,severe,What is the boiling point of water in Celsius?,100,100,1
+24,typos,severe,What gas makes up most of Earth's atmosphere?,Nitrogen,Nitrogen,1
+25,typos,severe,What is the capital of Cansda?,Ottawa,Unknown,0
+26,typos,severe,What is 15 - 7?,8,8,1
+27,typos,severe,What force keeps us on the ground?,Gravity,Gravity,1
+28,typos,severe,What is yhe largest mammal?,Blue whale,Unknown,0
+29,typos,severe,What metal is liquid at rlom temperature?,Mercury,Unknown,0
+30,typos,severe,What is the capital of Italy?,Rome,Rome,1
+31,typos,severe,What is 6 × 9?,54,54,1
+32,typos,severe,What do bees makd?,Honey,Unknown,0
+33,typos,severe,What is the study of earghquakes dalled?,Seismology,Unknown,0
+34,typos,severe,What vitamin is produced by skin in sunlight?,Vitamin D,Vitamin D,1
+35,typos,severe,What is the fapital of Germany?,Berlin,Unknown,0
+36,typos,severe,What is 144 ÷ 12?,12,12,1
+37,typos,severe,What fas do we breathe in to live?,Oxygen,Unknown,0
+38,typos,severe,What is the smallest country in the wkrld?,Vatican City,Unknown,0
+39,typos,severe,What temoerature does watrr freeze at in Fahrenheit?,32,Unknown,0
+40,typos,severe,What is ghe capital of Spain?,Madrid,Unknown,0
+41,typos,severe,What is 8 + 7?,15,15,1
+42,typos,severe,What ajimal is known as the king of the jungle?,Lion,Unknown,0
+43,typos,severe,What is the main ingredient in gpass?,Silicon dioxide,Unknown,0
+44,typos,severe,What planet is closest to the sin?,Mercury,Unknown,0
+45,typos,severe,What is the capital of the United Kingdom?,London,London,1
+46,typos,severe,What is 20% of 50?,10,10,1
+47,typos,severe,What do caterpillars turn into?,Butterflies,Butterflies,1
+48,typos,severe,What is the speed of light approximately?,"300,000 km/s","300,000 km/s",1
+49,typos,severe,What is the largest organ in ths human body?,Skin,Skin,1
+0,spacing,mild,What  is  the  capital  of  France?,Paris,Paris,1
+1,spacing,mild,What is 7 + 8?,15,15,1
+2,spacing,mild,What    color    do    you    get    mixing    red    and    blue?,Purple,Purple,1
+3,spacing,mild,What  is  the  largest  planet  in  our  solar  system?,Jupiter,Jupiter,1
+4,spacing,mild,What   year   did   World   War   II   end?,1945,1945,1
+5,spacing,mild,What    is    the    chemical    symbol    for    gold?,Au,Au,1
+6,spacing,mild,What    is    the    smallest    prime    number?,2,2,1
+7,spacing,mild,What  ocean  is  west  of  California?,Pacific Ocean,Pacific Ocean,1
+8,spacing,mild,What    is    the    square    root    of    64?,8,8,1
+9,spacing,mild,What   gas   do   plants   absorb   from   the   atmosphere?,Carbon dioxide,Carbon dioxide,1
+10,spacing,mild,What   is   the   hardest   natural   substance?,Diamond,Diamond,1
+11,spacing,mild,What    is    the    currency    of    Japan?,Yen,Yen,1
+12,spacing,mild,What    planet    is    known    as    the    Red    Planet?,Mars,Mars,1
+13,spacing,mild,What    is    12    ×    5?,60,60,1
+14,spacing,mild,What  is  the  longest  river  in  the  world?,Nile River,Nile River,1
+15,spacing,mild,What    element    has    the    atomic    number    1?,Hydrogen,Hydrogen,1
+16,spacing,mild,What is the capital of Australia?,Canberra,Canberra,1
+17,spacing,mild,What    is    100    ÷    4?,25,25,1
+18,spacing,mild,What  organ  pumps  blood  through  the  body?,Heart,Heart,1
+19,spacing,mild,What   is   the   fastest   land   animal?,Cheetah,Cheetah,1
+20,spacing,mild,What    is    H2O    commonly    known    as?,Water,Water,1
+21,spacing,mild,What  is  9²?,81,81,1
+22,spacing,mild,What   country   is   famous   for   the   pyramids?,Egypt,Egypt,1
+23,spacing,mild,What    is    the    boiling    point    of    water    in    Celsius?,100,100,1
+24,spacing,mild,What  gas  makes  up  most  of  Earth's  atmosphere?,Nitrogen,Nitrogen,1
+25,spacing,mild,What  is  the  capital  of  Canada?,Ottawa,Ottawa,1
+26,spacing,mild,What is 15 - 7?,8,8,1
+27,spacing,mild,What force keeps us on the ground?,Gravity,Gravity,1
+28,spacing,mild,What is the largest mammal?,Blue whale,Blue whale,1
+29,spacing,mild,What  metal  is  liquid  at  room  temperature?  ,Mercury,Mercury,1
+30,spacing,mild,What  is  the  capital  of  Italy?,Rome,Rome,1
+31,spacing,mild,What   is   6   ×   9?,54,54,1
+32,spacing,mild,What    do    bees    make?,Honey,Honey,1
+33,spacing,mild,What  is  the  study  of  earthquakes  called?,Seismology,Seismology,1
+34,spacing,mild,What vitamin is produced by skin in sunlight?,Vitamin D,Vitamin D,1
+35,spacing,mild,What   is   the   capital   of   Germany?,Berlin,Berlin,1
+36,spacing,mild,What    is    144    ÷    12?,12,12,1
+37,spacing,mild,What gas do we breathe in to live?,Oxygen,Oxygen,1
+38,spacing,mild,What   is   the   smallest   country   in   the   world?,Vatican City,Vatican City,1
+39,spacing,mild,What   temperature   does   water   freeze   at   in   Fahrenheit?,32,32,1
+40,spacing,mild,What   is   the   capital   of   Spain?,Madrid,Madrid,1
+41,spacing,mild,What  is  8  +  7?,15,15,1
+42,spacing,mild,What animal is known as the king of the jungle?,Lion,Lion,1
+43,spacing,mild,What   is   the   main   ingredient   in   glass?,Silicon dioxide,Silicon dioxide,1
+44,spacing,mild,What   planet   is   closest   to   the   sun?,Mercury,Mercury,1
+45,spacing,mild,What  is  the  capital  of  the  United  Kingdom?,London,London,1
+46,spacing,mild,What   is   20%   of   50?,10,10,1
+47,spacing,mild,What  do  caterpillars  turn  into?,Butterflies,Butterflies,1
+48,spacing,mild,What    is    the    speed    of    light    approximately?,"300,000 km/s","300,000 km/s",1
+49,spacing,mild,What   is   the   largest   organ   in   the   human   body?,Skin,Skin,1
+0,spacing,severe,What is the capital of France?,Paris,Paris,1
+1,spacing,severe,What   is   7   +   8?,15,15,1
+2,spacing,severe,What   color   do   you   get   mixing   red   and   blue?   ,Purple,Purple,1
+3,spacing,severe,What    is    the    largest    planet    in    our    solar    system?,Jupiter,Jupiter,1
+4,spacing,severe,What    year    did    World    War    II    end?,1945,1945,1
+5,spacing,severe,What    is    the    chemical    symbol    for    gold?,Au,Au,1
+6,spacing,severe,What    is    the    smallest    prime    number?,2,2,1
+7,spacing,severe,What    ocean    is    west    of    California?,Pacific Ocean,Pacific Ocean,1
+8,spacing,severe,What   is   the   square   root   of   64?,8,8,1
+9,spacing,severe,What    gas    do    plants    absorb    from    the    atmosphere?    ,Carbon dioxide,Carbon dioxide,1
+10,spacing,severe,What  is  the  hardest  natural  substance?  ,Diamond,Diamond,1
+11,spacing,severe,What  is  the  currency  of  Japan?,Yen,Yen,1
+12,spacing,severe,What planet is known as the Red Planet?,Mars,Mars,1
+13,spacing,severe,What  is  12  ×  5?  ,60,60,1
+14,spacing,severe,What is the longest river in the world?,Nile River,Nile River,1
+15,spacing,severe,What   element   has   the   atomic   number   1?,Hydrogen,Hydrogen,1
+16,spacing,severe,What is the capital of Australia?,Canberra,Canberra,1
+17,spacing,severe,What    is    100    ÷    4?,25,25,1
+18,spacing,severe,What    organ    pumps    blood    through    the    body?,Heart,Heart,1
+19,spacing,severe,What   is   the   fastest   land   animal?,Cheetah,Cheetah,1
+20,spacing,severe,What is H2O commonly known as?,Water,Water,1
+21,spacing,severe,What  is  9²?,81,81,1
+22,spacing,severe,What    country    is    famous    for    the    pyramids?,Egypt,Egypt,1
+23,spacing,severe,What    is    the    boiling    point    of    water    in    Celsius?,100,100,1
+24,spacing,severe,What   gas   makes   up   most   of   Earth's   atmosphere?,Nitrogen,Nitrogen,1
+25,spacing,severe,What  is  the  capital  of  Canada?,Ottawa,Ottawa,1
+26,spacing,severe,What is 15 - 7?,8,8,1
+27,spacing,severe,What   force   keeps   us   on   the   ground?,Gravity,Gravity,1
+28,spacing,severe,What   is   the   largest   mammal?,Blue whale,Blue whale,1
+29,spacing,severe,What    metal    is    liquid    at    room    temperature?,Mercury,Mercury,1
+30,spacing,severe,What   is   the   capital   of   Italy?,Rome,Rome,1
+31,spacing,severe,What  is  6  ×  9?,54,54,1
+32,spacing,severe,What  do  bees  make?,Honey,Honey,1
+33,spacing,severe,What is the study of earthquakes called?,Seismology,Seismology,1
+34,spacing,severe,What   vitamin   is   produced   by   skin   in   sunlight?,Vitamin D,Vitamin D,1
+35,spacing,severe,What  is  the  capital  of  Germany?,Berlin,Berlin,1
+36,spacing,severe,What is 144 ÷ 12?,12,12,1
+37,spacing,severe,What    gas    do    we    breathe    in    to    live?,Oxygen,Oxygen,1
+38,spacing,severe,What   is   the   smallest   country   in   the   world?,Vatican City,Vatican City,1
+39,spacing,severe,What temperature does water freeze at in Fahrenheit?,32,32,1
+40,spacing,severe,What is the capital of Spain?,Madrid,Madrid,1
+41,spacing,severe,What    is    8    +    7?,15,15,1
+42,spacing,severe,What   animal   is   known   as   the   king   of   the   jungle?,Lion,Lion,1
+43,spacing,severe,What is the main ingredient in glass? ,Silicon dioxide,Silicon dioxide,1
+44,spacing,severe,What  planet  is  closest  to  the  sun?  ,Mercury,Mercury,1
+45,spacing,severe,What   is   the   capital   of   the   United   Kingdom?,London,London,1
+46,spacing,severe,What    is    20%    of    50?,10,10,1
+47,spacing,severe,What    do    caterpillars    turn    into?,Butterflies,Butterflies,1
+48,spacing,severe,What    is    the    speed    of    light    approximately?,"300,000 km/s","300,000 km/s",1
+49,spacing,severe,What   is   the   largest   organ   in   the   human   body?,Skin,Skin,1
+0,unicode,mild,What is the сapital of France?,Paris,Unknown,0
+1,unicode,mild,What is 7 + 8?,15,15,1
+2,unicode,mild,What cοlor do you get mixing red and blue?,Purple,Unknown,0
+3,unicode,mild,What is the largest ρlanεt іn our solar system?,Jupiter,Unknown,0
+4,unicode,mild,What year did World War ІI end?,1945,Unknown,0
+5,unicode,mild,What іs thε chemical symbol for gοld?,Au,Unknown,0
+6,unicode,mild,Whаt is the smallest prime numbеr?,2,Unknown,0
+7,unicode,mild,What ocean is wεst of California?,Pacific Ocean,Unknown,0
+8,unicode,mild,What ιs the squɑre root of 64?,8,Unknown,0
+9,unicode,mild,What gas dо plants absorb from the atmosphere?,Carbon dioxide,Unknown,0
+10,unicode,mild,What is the hɑrdest natural substance?,Diamond,Unknown,0
+11,unicode,mild,What is the currency of Japan?,Yen,Yen,1
+12,unicode,mild,What planet is known as the Red Planet?,Mars,Mars,1
+13,unicode,mild,What is 12 × 5?,60,60,1
+14,unicode,mild,What is the longest river іn the world?,Nile River,Unknown,0
+15,unicode,mild,What еlеment has the atomic number 1?,Hydrogen,Unknown,0
+16,unicode,mild,What іs thе capital of Austrɑlia?,Canberra,Unknown,0
+17,unicode,mild,Whɑt is І00 ÷ 4?,25,Unknown,0
+18,unicode,mild,Whɑt organ pumρs blоod through the body?,Heart,Unknown,0
+19,unicode,mild,Whаt is the fastest land anιmal?,Cheetah,Unknown,0
+20,unicode,mild,What is H2O commοnlу knоwn as?,Water,Unknown,0
+21,unicode,mild,What is 9²?,81,81,1
+22,unicode,mild,What countrу is famοus for the pyramids?,Egypt,Unknown,0
+23,unicode,mild,What is the boiling ρоint of wɑter in Celsius?,100,Unknown,0
+24,unicode,mild,What gɑs makes up most οf Earth's atmosphere?,Nitrogen,Unknown,0
+25,unicode,mild,Whаt is the caрital of Canada?,Ottawa,Unknown,0
+26,unicode,mild,What is 15 - 7?,8,8,1
+27,unicode,mild,What force keeps us on the ground?,Gravity,Gravity,1
+28,unicode,mild,What is the largest mammal?,Blue whale,Blue whale,1
+29,unicode,mild,Whɑt metal is liquid at room temperature?,Mercury,Unknown,0
+30,unicode,mild,What is the capital οf Italy?,Rome,Unknown,0
+31,unicode,mild,What is 6 × 9?,54,54,1
+32,unicode,mild,Whɑt do bees make?,Honey,Unknown,0
+33,unicode,mild,What is the study of eаrthquakes called?,Seismology,Unknown,0
+34,unicode,mild,What vitamіn is produced by skin in sunlight?,Vitamin D,Unknown,0
+35,unicode,mild,What is the capіtal of Germany?,Berlin,Unknown,0
+36,unicode,mild,What ιs 144 ÷ 12?,12,Unknown,0
+37,unicode,mild,What gas do we breathe in to live?,Oxygen,Oxygen,1
+38,unicode,mild,What is the smallest country in the world?,Vatican City,Vatican City,1
+39,unicode,mild,Whɑt temperature does water freeze at ιn Fahrenheit?,32,Unknown,0
+40,unicode,mild,Whɑt is the caрital of Spain?,Madrid,Unknown,0
+41,unicode,mild,What is 8 + 7?,15,15,1
+42,unicode,mild,What ɑnimal is known as the king of the jungle?,Lion,Unknown,0
+43,unicode,mild,What is the maіn ingredient in glass?,Silicon dioxide,Unknown,0
+44,unicode,mild,What planet is closest to the sun?,Mercury,Mercury,1
+45,unicode,mild,What ιs the capital οf the United Kingdοm?,London,Unknown,0
+46,unicode,mild,What is 20% of 50?,10,10,1
+47,unicode,mild,What dо caterpillars turn into?,Butterflies,Unknown,0
+48,unicode,mild,What is the speed of light approximately?,"300,000 km/s","300,000 km/s",1
+49,unicode,mild,What is the largest organ in the human body?,Skin,Skin,1
+0,unicode,severe,What is the capital of Frаnce?,Paris,Unknown,0
+1,unicode,severe,What is 7 + 8?,15,15,1
+2,unicode,severe,What color do yоu get mixing rεd and blue?,Purple,Unknown,0
+3,unicode,severe,What іs the largest plɑnet in our sоlar system?,Jupiter,Unknown,0
+4,unicode,severe,What уeɑr did Wοrld War ІI end?,1945,Unknown,0
+5,unicode,severe,What is the chεmical symbol for gοld?,Au,Unknown,0
+6,unicode,severe,What is the smɑllest prіmе number?,2,Unknown,0
+7,unicode,severe,What οcean is west οf Calіfornιa?,Pacific Ocean,Unknown,0
+8,unicode,severe,What is the square root of 64?,8,8,1
+9,unicode,severe,What gas do plants absorb from the atmosphere?,Carbon dioxide,Carbon dioxide,1
+10,unicode,severe,Whаt is thε hardest natural substance?,Diamond,Unknown,0
+11,unicode,severe,Whаt is the ϲurrencγ of Japɑn?,Yen,Unknown,0
+12,unicode,severe,What plаnet is known аs the Red Planet?,Mars,Unknown,0
+13,unicode,severe,What is 12 × 5?,60,60,1
+14,unicode,severe,What is the longest rivεr in the world?,Nile River,Unknown,0
+15,unicode,severe,Whаt element has the atomіc number l?,Hydrogen,Unknown,0
+16,unicode,severe,What is the cаpital of Αustralia?,Canberra,Unknown,0
+17,unicode,severe,Whɑt is 100 ÷ 4?,25,Unknown,0
+18,unicode,severe,What organ pumps blood through the body?,Heart,Heart,1
+19,unicode,severe,Whɑt is thε fastest land animɑl?,Cheetah,Unknown,0
+20,unicode,severe,Whɑt is H2O ϲommonly known аs?,Water,Unknown,0
+21,unicode,severe,What is 9²?,81,81,1
+22,unicode,severe,Whɑt cоuntrγ is famous fоr the pyramіds?,Egypt,Unknown,0
+23,unicode,severe,What ιs the boiling point of water in Celsius?,100,Unknown,0
+24,unicode,severe,What gas makes up most оf Eɑrth's atmоsphere?,Nitrogen,Unknown,0
+25,unicode,severe,What is the capitɑl οf Cаnada?,Ottawa,Unknown,0
+26,unicode,severe,Whаt is 15 - 7?,8,Unknown,0
+27,unicode,severe,What forcε keeps us on the ground?,Gravity,Unknown,0
+28,unicode,severe,Whɑt ιs the largest mammal?,Blue whale,Unknown,0
+29,unicode,severe,What mеtal is liquid at roοm temperature?,Mercury,Unknown,0
+30,unicode,severe,Whаt ιs the capιtal of Italy?,Rome,Unknown,0
+31,unicode,severe,What is 6 × 9?,54,54,1
+32,unicode,severe,What do bees make?,Honey,Honey,1
+33,unicode,severe,What is the studγ оf earthquakes сalled?,Seismology,Unknown,0
+34,unicode,severe,What vitamin is produϲεd by skιn in sunlight?,Vitamin D,Unknown,0
+35,unicode,severe,What is the capιtɑl of Germаny?,Berlin,Unknown,0
+36,unicode,severe,What ιs 144 ÷ І2?,12,Unknown,0
+37,unicode,severe,What gas do wе brεathe іn to lιve?,Oxygen,Unknown,0
+38,unicode,severe,Whɑt is thе smallεst ϲountry ιn the world?,Vatican City,Unknown,0
+39,unicode,severe,What temperature doеs water freeze at in Fahrenhεit?,32,Unknown,0
+40,unicode,severe,What is thε capital of Spain?,Madrid,Unknown,0
+41,unicode,severe,Whаt is 8 + 7?,15,Unknown,0
+42,unicode,severe,What animal is known as the king of the jungle?,Lion,Lion,1
+43,unicode,severe,What is the main ingrεdient in glass?,Silicon dioxide,Unknown,0
+44,unicode,severe,What ρlanet is clоsest to the sun?,Mercury,Unknown,0
+45,unicode,severe,Whɑt is the cаpital of the United Kingdom?,London,Unknown,0
+46,unicode,severe,What іs 20% of 5О?,10,Unknown,0
+47,unicode,severe,What do caterρillars turn intο?,Butterflies,Unknown,0
+48,unicode,severe,What is thе speed of light apρroximatelу?,"300,000 km/s",Unknown,0
+49,unicode,severe,What is the lаrgest organ іn the human body?,Skin,Unknown,0
+0,emoji,mild,What is the capital of France?,Paris,Paris,1
+1,emoji,mild,What is 7 + 🔍8?,15,Unknown,0
+2,emoji,mild,What color do you get mixing red and blue?,Purple,Purple,1
+3,emoji,mild,What is the largest planet in our solar system?,Jupiter,Jupiter,1
+4,emoji,mild,What year did World War II end?,1945,1945,1
+5,emoji,mild,What is the chemical symbol for gold?,Au,Au,1
+6,emoji,mild,What is📊 the smallest prime number?,2,Unknown,0
+7,emoji,mild,What ocean is west of California?,Pacific Ocean,Pacific Ocean,1
+8,emoji,mild,What is✨ the square root of 64?,8,Unknown,0
+9,emoji,mild,What gas do plants absorb from the atmosphere?,Carbon dioxide,Carbon dioxide,1
+10,emoji,mild,What is the hardest natural substance?,Diamond,Diamond,1
+11,emoji,mild,What is the currency🎯 of Japan?,Yen,Unknown,0
+12,emoji,mild,What planet is known as the Red Planet?,Mars,Mars,1
+13,emoji,mild,What is 12💡 × 5?,60,Unknown,0
+14,emoji,mild,What is the longest river in the world?,Nile River,Nile River,1
+15,emoji,mild,What element has the atomic🔤 number 1?,Hydrogen,Unknown,0
+16,emoji,mild,What is the capital of Australia?✨,Canberra,Unknown,0
+17,emoji,mild,What is 100 ÷ 4?,25,25,1
+18,emoji,mild,What organ pumps blood through the body?,Heart,Heart,1
+19,emoji,mild,What is the ✨fastest land animal?,Cheetah,Unknown,0
+20,emoji,mild,What is H2O commonly known as?,Water,Water,1
+21,emoji,mild,What is 9²?,81,81,1
+22,emoji,mild,🎯What country is famous for the pyramids?,Egypt,Unknown,0
+23,emoji,mild,What is the ✨boiling point of water in🎯 Celsius?,100,Unknown,0
+24,emoji,mild,What gas 📌makes up most of Earth's atmosphere?,Nitrogen,Unknown,0
+25,emoji,mild,What is the capital 📋of Canada?,Ottawa,Unknown,0
+26,emoji,mild,What is 15 - 7?,8,8,1
+27,emoji,mild,What force 💭keeps us on the ground?,Gravity,Unknown,0
+28,emoji,mild,What is the largest mammal?,Blue whale,Blue whale,1
+29,emoji,mild,What metal is 💡liquid at room temperature?,Mercury,Unknown,0
+30,emoji,mild,What is the capital of Italy?,Rome,Rome,1
+31,emoji,mild,What is📝 6 × 9?,54,Unknown,0
+32,emoji,mild,What do bees make?,Honey,Honey,1
+33,emoji,mild,What is 💭the study of earthquakes called?,Seismology,Unknown,0
+34,emoji,mild,What vitamin is produced by skin in sunlight?,Vitamin D,Vitamin D,1
+35,emoji,mild,What💭 is the capital of Germany?,Berlin,Unknown,0
+36,emoji,mild,What is 144📌 ÷ 12?💭,12,Unknown,0
+37,emoji,mild,What gas 🔍do we breathe in to live?,Oxygen,Unknown,0
+38,emoji,mild,What is the smallest country in the world?,Vatican City,Vatican City,1
+39,emoji,mild,📌What temperature📋 does water 📋freeze at in Fahrenheit?,32,Unknown,0
+40,emoji,mild,What is the 📝capital of Spain?,Madrid,Unknown,0
+41,emoji,mild,What is 8 + 7?,15,15,1
+42,emoji,mild,What animal is known as the 🎯king of the📊 jungle?,Lion,Unknown,0
+43,emoji,mild,What is✨ the main ✨ingredient in glass?,Silicon dioxide,Unknown,0
+44,emoji,mild,What planet is closest to the sun?,Mercury,Mercury,1
+45,emoji,mild,What is the 📌capital of the United 🎯Kingdom?,London,Unknown,0
+46,emoji,mild,What is 20% of 50?,10,10,1
+47,emoji,mild,What do caterpillars🔍 turn📊 into?,Butterflies,Unknown,0
+48,emoji,mild,What is the speed💭 of light approximately?,"300,000 km/s",Unknown,0
+49,emoji,mild,🔍What is the largest organ in the human 📊body?,Skin,Unknown,0
+0,emoji,severe,What 💭is the capital of France?,Paris,Unknown,0
+1,emoji,severe,What is 7 +🔍 8?,15,Unknown,0
+2,emoji,severe,What color do you get📊 mixing 💡red and blue?📌,Purple,Unknown,0
+3,emoji,severe,What is the💭 📝largest planet in 📌our solar system?,Jupiter,Unknown,0
+4,emoji,severe,What year did 💭World War II 🎯end?,1945,Unknown,0
+5,emoji,severe,What 📋is the chemical symbol for gold?,Au,Unknown,0
+6,emoji,severe,What is the smallest📋 prime number?,2,Unknown,0
+7,emoji,severe,What ocean 💡is west of California?,Pacific Ocean,Unknown,0
+8,emoji,severe,What is the square📌 root of 64?,8,Unknown,0
+9,emoji,severe,What gas do plants🎯 💡absorb from the atmosphere?,Carbon dioxide,Unknown,0
+10,emoji,severe,What is 📊the hardest natural substance?📊,Diamond,Unknown,0
+11,emoji,severe,What is the currency of📊 Japan?,Yen,Unknown,0
+12,emoji,severe,What planet is🎯 known as the✨ 📝Red Planet?,Mars,Unknown,0
+13,emoji,severe,What is 📋12 ×🔍 5?,60,Unknown,0
+14,emoji,severe,What is📋 the💭 longest river in the world?,Nile River,Unknown,0
+15,emoji,severe,💡What element has the atomic number 1?,Hydrogen,Unknown,0
+16,emoji,severe,What is the capital of Australia?,Canberra,Canberra,1
+17,emoji,severe,What is 100 ÷ 4?📝,25,Unknown,0
+18,emoji,severe,What organ pumps blood 📋through the body?,Heart,Unknown,0
+19,emoji,severe,What ✨is the fastest land animal?💭,Cheetah,Unknown,0
+20,emoji,severe,What is H2O 📊commonly known💡 as?,Water,Unknown,0
+21,emoji,severe,What✨ is 9²?,81,Unknown,0
+22,emoji,severe,What country is famous✨ for the pyramids?,Egypt,Unknown,0
+23,emoji,severe,What is 📝the boiling point🔍 of💭 water in📋 Celsius?,100,Unknown,0
+24,emoji,severe,What gas makes up most 🎯of Earth's🔤 atmosphere?,Nitrogen,Unknown,0
+25,emoji,severe,What is the capital📋 of 📝Canada?,Ottawa,Unknown,0
+26,emoji,severe,What is 15 📝- 7?,8,Unknown,0
+27,emoji,severe,What force 📌keeps us on the ground?,Gravity,Unknown,0
+28,emoji,severe,What is 📝the largest mammal?,Blue whale,Unknown,0
+29,emoji,severe,What 💭metal is liquid at room temperature?,Mercury,Unknown,0
+30,emoji,severe,What is the capital of Italy?,Rome,Rome,1
+31,emoji,severe,What is 6📝 × 9?,54,Unknown,0
+32,emoji,severe,What do ✨bees make?,Honey,Unknown,0
+33,emoji,severe,What is 📌the study of earthquakes 📋called?,Seismology,Unknown,0
+34,emoji,severe,What vitamin is📌 produced by skin in sunlight?📋,Vitamin D,Unknown,0
+35,emoji,severe,What 🔍is the capital of Germany?,Berlin,Unknown,0
+36,emoji,severe,What is💡 144 ÷ 12?,12,Unknown,0
+37,emoji,severe,What gas do 📌we breathe in to🎯 live?✨,Oxygen,Unknown,0
+38,emoji,severe,What 💡is the smallest country in the world?,Vatican City,Unknown,0
+39,emoji,severe,What temperature does water freeze ✨at in Fahrenheit?,32,Unknown,0
+40,emoji,severe,What is the capital of💡 Spain?,Madrid,Unknown,0
+41,emoji,severe,What is 8 +📊 7?,15,Unknown,0
+42,emoji,severe,What animal is known as the king 📝of the jungle?,Lion,Unknown,0
+43,emoji,severe,What is the main ingredient in glass?,Silicon dioxide,Silicon dioxide,1
+44,emoji,severe,📝What planet📋 is closest to the sun?,Mercury,Unknown,0
+45,emoji,severe,What is the capital of the🔍 United💡 Kingdom?,London,Unknown,0
+46,emoji,severe,What is 20% of 50?,10,10,1
+47,emoji,severe,What do caterpillars turn into?,Butterflies,Butterflies,1
+48,emoji,severe,What is🎯 the speed of light approximately?,"300,000 km/s",Unknown,0
+49,emoji,severe,What is the largest organ in the🔤 human body?,Skin,Skin,1
