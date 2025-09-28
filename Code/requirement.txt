@@ -1,0 +1,24 @@
+# Core ML and Data Science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# PyTorch and Hugging Face Ecosystem
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+datasets
+
+# Utilities
+Pillow
+requests
+tqdm
+openai
+
+# Specific Git Dependencies
+git+https://github.com/openai/CLIP.git
